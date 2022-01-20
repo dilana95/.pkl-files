@@ -2,6 +2,8 @@
 
 Anime#URL= "https://github.com/dilana95/anime/releases/download/anime/2020-01-11-skylion-stylegan2-animeportraits-networksnapshot-024664.pkl"
 
+Anime 2 #URL = "https://thisfursonadoesnotexist.com/model/network-e621-r-512-3194880.pkl"
+
 Art/drawings#URL = "https://archive.org/download/wikiart-stylegan2-conditional-model/WikiArt5.pkl"
 
 Art/drawings#URL =" https://archive.org/download/wikiart-stylegan2-conditional-model/WikiArt_Uncond2.pkl"
